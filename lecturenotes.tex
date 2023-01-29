@@ -1,0 +1,92 @@
+\documentclass[11pt,a4paper]{report}
+\fontfamily{cmss}
+\hfuzz=9999pt % "fix" hbox overfull
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks   = true, %Colours links instead of ugly boxes
+  urlcolor     = blue, %Colour for external hyperlinks
+  linkcolor    = blue, %Colour of internal links
+  citecolor   = red %Colour of citations
+}
+
+\begin{titlepage}
+\title{BU551X - Financial Crime and Cybersecurity \\ Lecture Notes}
+\author{Rodrigo Miguel}
+\date{\today}
+\end{titlepage}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\chapter{Lecture 1}
+\section{Cybercrime}
+\subsection{What is cybercrime?}
+\begin{itemize}
+    \item Virus, malware and spyware;
+    \item Denial-of-Service attacks;
+    \item Hacking of personal computers;
+    \item Hacking of social media and e-mail;
+    \item Hacking combined with extortion, e.g. Sextortion.
+    \item DDoS or denial-of-service attacks;
+    \item PBX (Private Branch Exchanges) - where hackers target telephone systems of companies to make expensive calls.
+\end{itemize}
+\subsection{The scale of the problem}
+\begin{itemize}
+    \item The "Nature of fraud and computer misuse in England and Wales" is the only dataset available from the Office for National Statistics.  Action Fraud reported 31 322 cases in 2020/2021 with $\frac{1}{3}$ being social media and e-mail hacking. This summed up for losses of £9.6 million.
+    \item More than $\frac{1}{3}$ of Internet users reported a "negative online incident" - but most cases, including virus attacks, were not recorded as crimes.
+    \item Research focused on alleged increase in online crime during the COVID-19 pandemic, argues that the changes in online retail habits have contributed for a higher exposure to cybercrime.
+\end{itemize}
+These activities however, are underreported, being it from companies that do not want to disclose attacks or simply not knowing, to people that are embarrassed of admitting to be attacked.
+
+\section{Leaks}
+\subsection{Checking for Leaks}
+It is important to check online for leaks of your e-mails, mobile phones and passwords. There are a couple of websites that can help you do this:
+\begin{itemize}
+    \item \href{http://haveibeenpwned.com}{Have I Been Pwned} - Checks your e-mails, mobile phones and \href{http://haveibeenpwned.com/Passwords}{passwords} against any leaks including in the dark web;
+\end{itemize}
+    Lastly, as a good practice measure, you can also use password managers for all your internet accounts: 
+\begin{itemize}
+    \item \href{https://github.com/bitwarden/clients}{Bitwarden} - Recommended  due to its open-source and free nature.
+\end{itemize}
+
+\subsection{Hacking your home network}
+There are four sources of vulnerabilities for small office/home office networks:
+\begin{itemize}
+    \item Internet;
+    \item Devices on the network;
+    \item Wireless;
+    \item Connection to your business.
+\end{itemize}
+It has a public IP address, which can be easily \href{https://whatismyipaddress.com}{identified}.
+If you want to test for vulnerabilities in your network, \href{http://pentest-tools.com/home}{this tool}, can scan your network with your public IP address.
+\section{Identity Theft}
+\subsection{Why is it a major issue in the UK?}
+The UK, unlike other many other countries in the world, has no identity card system. This lack of system, creates a problem of identity theft.
+\begin{itemize}
+    \item Lack of system for registration.
+    \item Proof of address is used more times than needed, creating loopholes and fakes;
+    \item Lack of photo IDs;
+    \item Lack of checks, lead to fraud;
+\end{itemize}
+To fight against it, you should \href{https://clearscore.com}{check} your credit reports regularly. These checks also include dark web searches.
+
+\section{VPN}
+\subsection{Can you be identified online?}
+You can test your browser security with \href{coveryourtracks.eff.org}{Cover Your Tracks}. Part of this information can also be spoofed using VPNs and the TOR browser.
+\subsection{What does a VPN do?}
+There are many VPN providers available to the end user, however, private providers, like \href{https://zsvpn.com}{ZSVPN}, will not sell/store your information to other companies. Put simply, a VPN works by:
+\begin{itemize}
+    \item Sending data from your computer to the VPN computer with the use of encryption;
+    \item However, traffic going from the VPN computer to other websites is not encrypted;
+    \item To remediate this, you can create a secure tunnel using a VPN and then connecting to the TOR network.
+    \item As previously mentioned, you shouldn't rely on free providers and make sure you use HTTPS (Hypertext Transfer Protocol Secure) (TLS encryption) with every connection.
+    \item Another good measure, is to check how much information your VPN provider has of you. e.g. name, address, phone number, etc.
+\end{itemize}
+\subsection{Is a VPN sufficient for your security?}
+Simply put, "No!". Your metadata is sufficient evidence to trace back to you. For example, your ISP (Internet Service Provider) knows when you access YouTube, but they don't know which videos you are watching.
+VPN providers work the same way, they still have access to your data and store your transaction info, e.g. your credit card.
+
+\chapter{Lecture 2}
+
+\end{document}
