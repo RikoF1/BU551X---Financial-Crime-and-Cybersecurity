@@ -1,14 +1,27 @@
-\contentsline {chapter}{\numberline {1}Lecture 1}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Cybercrime}{2}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}What is cybercrime?}{2}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}The scale of the problem}{2}{subsection.1.1.2}%
-\contentsline {section}{\numberline {1.2}Leaks}{3}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Checking for Leaks}{3}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Hacking your home network}{3}{subsection.1.2.2}%
-\contentsline {section}{\numberline {1.3}Identity Theft}{3}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Why is it a major issue in the UK?}{3}{subsection.1.3.1}%
-\contentsline {section}{\numberline {1.4}VPN}{4}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Can you be identified online?}{4}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}What does a VPN do?}{4}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}Is a VPN sufficient for your security?}{4}{subsection.1.4.3}%
-\contentsline {chapter}{\numberline {2}Lecture 2}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Cybercrime}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}What is cybercrime?}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}The scale of the problem}{3}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Leaks}{4}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Checking for Leaks}{4}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Hacking your home network}{4}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Identity Theft}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Why is it a major issue in the UK?}{4}{subsection.1.3.1}%
+\contentsline {section}{\numberline {1.4}VPN}{5}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Can you be identified online?}{5}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}What does a VPN do?}{5}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Is a VPN sufficient for your security?}{5}{subsection.1.4.3}%
+\contentsline {chapter}{\numberline {2}Tor and Hidden Services}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Tor}{6}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Why use Tor?}{6}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Installation and Verification}{6}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Optimize Tor settings}{6}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Hidden Services}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Search Engines}{7}{subsection.2.2.1}%
+\contentsline {chapter}{\numberline {3}The Dark Web and TAILS}{8}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Cryptocurrencies}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Kali Linux}{10}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Networks}{11}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Scanning and First Attack}{12}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Python for Networking and Automation}{13}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Defence}{14}{chapter.9}%

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1675012932 "c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551X - Financial Crime and Cybersecurity/lecturenotes.tex" "lecturenotes.pdf" "lecturenotes" 1675012934
+["pdflatex"] 1675099604 "c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551X - Financial Crime and Cybersecurity/lecturenotes.tex" "lecturenotes.pdf" "lecturenotes" 1675099606
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1674997264 23063 7b9b4c90c7782748e1ffd9ab7b72b3c0 ""
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1674932722 12668 c8a265a187f3b5f5070bfcb96fba17db ""
   "C:/Users/rodmi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi1037/cmbx12.pk" 1674929353 27296 6edcbe3a29cc200b64adfa386f93e10f ""
@@ -65,11 +65,11 @@
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/rodmi/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551X - Financial Crime and Cybersecurity/lecturenotes.tex" 1675012931 5231 23fbeb5761a2924ee0d72b1ea11427ba ""
-  "lecturenotes.aux" 1675012934 2448 800630b49e27122812aa85f9c4f1b038 "pdflatex"
-  "lecturenotes.out" 1675012934 2183 a8f0b109456d74e39df86e01c40a854a "pdflatex"
-  "lecturenotes.tex" 1675012931 5231 23fbeb5761a2924ee0d72b1ea11427ba ""
-  "lecturenotes.toc" 1675012934 1168 0bda617c054bedfbcfb7dfeee4dad530 "pdflatex"
+  "c:/Users/rodmi/OneDrive - University of Aberdeen/University/Year 5 - Financial Technology/BU551X - Financial Crime and Cybersecurity/lecturenotes.tex" 1675099599 7742 85353ec3d8568aaccb6084c7899a375f ""
+  "lecturenotes.aux" 1675099605 4546 b70d873bfe18ad0c70ee7839967b9211 "pdflatex"
+  "lecturenotes.out" 1675099605 4087 6617e3bfc9a811c0a57c9c190843f2e7 "pdflatex"
+  "lecturenotes.tex" 1675099599 7742 85353ec3d8568aaccb6084c7899a375f ""
+  "lecturenotes.toc" 1675099605 2200 2e9a239753d0d177391b6dc13712c129 "pdflatex"
   (generated)
   "lecturenotes.aux"
   "lecturenotes.log"

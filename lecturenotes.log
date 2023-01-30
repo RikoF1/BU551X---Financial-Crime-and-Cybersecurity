@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.9)  29 JAN 2023 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.9)  30 JAN 2023 17:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -202,41 +202,69 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/rodmi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (lecturenotes.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
-)
-\tf@toc=\write4
-\openout4 = `lecturenotes.toc'.
-
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 \chapter
-             {Lecture 1} [1
+l.27 ...er}{\numberline {9}Defence}{14}{chapter.9}
+                                                  % [1
+
+])
+\tf@toc=\write4
+\openout4 = `lecturenotes.toc'.
+
+ [2]
+Chapter 1.
+[3
+
+] [4] [5]
+Chapter 2.
+[6
+
+] [7]
+Chapter 3.
+[8
 
 ]
-Chapter 1.
-[2
+Chapter 4.
+[9
 
-] [3] [4]
-Chapter 2.
-[5
+]
+Chapter 5.
+[10
+
+]
+Chapter 6.
+[11
+
+]
+Chapter 7.
+[12
+
+]
+Chapter 8.
+[13
+
+]
+Chapter 9.
+[14
 
 ] (lecturenotes.aux)
 Package rerunfilecheck Info: File `lecturenotes.out' has not changed.
-(rerunfilecheck)             Checksum: A8F0B109456D74E39DF86E01C40A854A;2183.
+(rerunfilecheck)             Checksum: 6617E3BFC9A811C0A57C9C190843F2E7;4087.
  ) 
 Here is how much of TeX's memory you used:
- 7907 strings out of 477314
- 127743 string characters out of 2827706
- 464458 words of memory out of 3000000
- 28966 multiletter control sequences out of 15000+600000
+ 7942 strings out of 477314
+ 128126 string characters out of 2827706
+ 467469 words of memory out of 3000000
+ 28979 multiletter control sequences out of 15000+600000
  475983 words of font info for 50 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 72i,6n,77p,467b,486s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,6n,77p,551b,496s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmr8.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi720\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi1037\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi657\cmr10.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi657\cmbx10.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi1244\cmbx12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmr12.pk> <C:\Users\rodmi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm/dpi600\cmr17.pk>
-Output written on lecturenotes.pdf (6 pages, 100792 bytes).
+Output written on lecturenotes.pdf (15 pages, 150481 bytes).
 PDF statistics:
- 369 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 560 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
 

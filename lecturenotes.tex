@@ -19,7 +19,7 @@
 \maketitle
 \tableofcontents
 
-\chapter{Lecture 1}
+\chapter{Introduction}
 \section{Cybercrime}
 \subsection{What is cybercrime?}
 \begin{itemize}
@@ -86,7 +86,50 @@ There are many VPN providers available to the end user, however, private provide
 \subsection{Is a VPN sufficient for your security?}
 Simply put, "No!". Your metadata is sufficient evidence to trace back to you. For example, your ISP (Internet Service Provider) knows when you access YouTube, but they don't know which videos you are watching.
 VPN providers work the same way, they still have access to your data and store your transaction info, e.g. your credit card.
+\\ On another hand, you can also help yourself by taking some safety measures like:
+\begin{itemize}
+    \item Turning off your mobile phone;
+    \item Using another computer to hide your real location (RDP connection);
+    \item Social behaviour is your demise.
+\end{itemize}
 
-\chapter{Lecture 2}
+\chapter{Tor and Hidden Services}
+\section{Tor}
+\subsection{Why use Tor?}
+As previously seen, it is very easy to track and identify users online. Tor (The Onion Router) is an open-source program that focuses on anonymous web surfing. It works by directing traffic through an overlay network, by using nodes. The user connects to an entry node and then traffic is directed to other nodes until it gets to the exit node and arrive at the targeted server.
+Tor was developed by the US Naval Research Laboratory in the 1990s.
+While it is very good at hiding your identity, the program still has its weaknesses, like the traffic between the exit node and the target server can still be monitored.
+Other techniques can also be used to augment security, for example, by using a VPN to encrypt the connection from the user to the entry point (or bridge). These combined give authorities a much harder job of tracking and identifying the user, but don't make it impossible.
+\subsection{Installation and Verification}
+The browser can be easily downloaded in most countries, but it is recommended to use GnuPG to check for the installation's integrity as a precaution measure. Before using it, it might also be necessary to use a bridge to connect to the network (check documentation online).
+\subsection{Optimize Tor settings}
+\begin{itemize}
+    \item Never use TOR in full screen mode! - This will identify your screen size and lead it to you;
+    \item Always use the most up-to-date version of the browser;
+    \item Change settings carefully, e.g. firewall ports;
+    \item Never remember history;
+    \item Tracking protection should be on "always";
+    \item Block pop-up windows, warn when websites try to install add-ons;
+    \item Check "Deceptive Content and Dangerous Software Protection".
+\end{itemize}
+\section{Hidden Services}
+\subsection{Search Engines}
+\begin{itemize}
+    \item DuckDuckGo;
+    \item NotEvil;
+    \item torch;
+    \item ahmia;
+    \item r/privacy;
+    \item r/deepweb.
+\end{itemize}
+
+
+\chapter{The Dark Web and TAILS}
+\chapter{Cryptocurrencies}
+\chapter{Kali Linux}
+\chapter{Networks}
+\chapter{Scanning and First Attack}
+\chapter{Python for Networking and Automation}
+\chapter{Defence}
 
 \end{document}
