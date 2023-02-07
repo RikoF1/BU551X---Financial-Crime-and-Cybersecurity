@@ -125,6 +125,61 @@ The browser can be easily downloaded in most countries, but it is recommended to
 
 
 \chapter{The Dark Web and TAILS}
+\section{Warning}
+\subsection{Limits of TOR}
+\begin{itemize}
+    \item TOR is not completely safe as your operating system still communicates with the clear web - crashing logs, reports, etc.;
+    \item To eliminate this, we need more secure operating systems to explore the dark web;
+    \item Never use direct links on the dark web as attacks are very common - this stresses the importance of using safer operating systems;
+    \item TOR can be very slow - consider using a bridge.
+\end{itemize}
+\subsection{Posting Comments}
+\begin{itemize}
+    \item Never post comments directly on a website - keystrokes can be identifiable - they are like a fingerprint.
+    \item A simple work-around on this is to type it on an off-line in text editor and then copying and pasting your message onto the website;
+\end{itemize}
+\section{E-mail}
+\subsection{E-mail services}
+\begin{itemize}
+    \item \href{http://fakepersongenerator.com}{Fake ID Generator};
+    \item \href{http://guerrillamail.com}{Temporary e-mail providers};
+    \item \href{http://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017}{Other providers source};
+    \item \href{http://protonmail.com}{Permanent e-mail} provider, focusing on privacy;
+    \item \href{http://onion.live/}{Check updated links to hidden services}.
+\end{itemize}
+
+\section{Messaging}
+\subsection{Instant Messaging}
+\begin{itemize}
+    \item XMPP/Jabber is a free and open-source protocol not owned by any company;
+    \item Pidgin is pre-installed on TAILS - you can register \href{http://dismail.de}{here} to get your own account.
+    \begin{itemize}
+        \item Add XMPP account with your username and password - domain refers to dismail.de;
+        \item Note: The XMPP server is on the clearnet - better to use it with hidden services;
+        \item To do this, you need to modify Pidgin - use the onion service shown in list for dismail.de - This will ensure that traffic stays within the TOR network;
+        \item Use off-the-record end-to-end encryption - this way, the server cannot read the message;
+        \item Verification of contact: click on verify and select question/answer - fingerprint can also be set as an alternative form of communication.
+    \end{itemize}
+\end{itemize}
+\section{TAILS}
+\subsection{Operating Systems}
+\begin{itemize}
+    \item Your OS such as Windows or macOS collects information - even when using TOR correctly;
+    \item Programs connect to the Internet directly without using a browser;
+    \item Instead, you should use TAILS, which is a Linux based operating system;
+    \item This is a 'live' OS which is usually installed on a USB stick;
+    \item Anything will go through TOR network without leaks;
+    \item TAILS runs on RAM and leaves no trace on the computer used;
+    \item By switching off the computer after using TAILS, the information is deleted.
+\end{itemize}
+\subsection{Whonix: an alternative to TAILS}
+\begin{itemize}
+    \item Whonix is a Linux based operating system which can run in a virtual machine;
+    \item All traffic goes through the Tor network;
+    \item Note: Whonix is not amnesic, providing more convenience but less security than TAILS;
+    \item In VirtualBox import Whonix Gateway and Workstation - always start Gateway first;
+\end{itemize}
+
 \chapter{Cryptocurrencies}
 \chapter{Kali Linux}
 \chapter{Networks}
